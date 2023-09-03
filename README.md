@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+我叫王思豪，来自计科4班，老家河南驻马店，目前正在学习人工智能方面的知识，对编程有兴趣，希望在这门课上进一步的提升我关于编程，关于软件方面的能力。
 <!--
 **w-i-sh/w-i-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
